@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @fredfeng0326
 - 👀 I’m interested in programming, front-end, back-end, Typescript, Python...
 - 📫 fred.feng0326@gmail.com
+- https://www.linkedin.com/in/fred-feng-288770121/
 
 <!---
 fredfeng0326/fredfeng0326 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
